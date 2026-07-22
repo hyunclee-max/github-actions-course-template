@@ -1,2 +1,3 @@
-# github-actions-course-template
-Project repo for getting started with GitHub Actions course on Pluralsight
+# Tic Tac Toe Game
+
+Learn GitHub Actions through a fun little game.
